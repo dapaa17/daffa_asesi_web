@@ -39,6 +39,7 @@
                             <td>
                                 <div class="d-flex justify-content-center gap-2">
                                     
+                                    
                                     <a href="{{ route('barang.edit', $barang->Kode_Barang) }}"
                                        class="btn btn-warning btn-sm">
                                         Edit
